@@ -34,3 +34,9 @@ struct DetailAlamat {
     string kota;
 };
 
+struct Mahasiswa {
+    string nim;
+    string nama;
+    string alamat;
+    int umur;
+};
