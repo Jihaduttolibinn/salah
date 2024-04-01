@@ -1,8 +1,10 @@
 
 #include <iostream>
+using namespace std;
 
-int main()
-{
-    std::cout << "Hello World!\n";
-}
-
+struct Mahasiswa {
+    string nim;
+    string nama;
+    string alamat;
+    int umur;
+};
